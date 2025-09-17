@@ -5,7 +5,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![My project screenshot][./screenshot.png]
+![My project screenshot](./screenshot.png)
 
 
 ### Links
